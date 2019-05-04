@@ -1,0 +1,31 @@
+{
+  "name": "IAmANoot",
+  "version": "1.0.0",
+  "description": "Bot by !AmANoot#0123",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "engines": {
+    "node": "8.7.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://iamanoot.xyz"
+  },
+  "keywords": [
+    "noot",
+    "discord.js"
+  ],
+  "author": "IAmANoot",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://iamanoot.xyz"
+  },
+  "homepage": "https://iamanoot.xyz",
+  "dependencies": {
+    "better-sqlite3": "^5.4.0",
+    "chalk": "^2.3.2",
+    "discord.js": "^11.4.2"
+  }
+}
